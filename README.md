@@ -1,19 +1,11 @@
-# title(){
-		
-		return this.options.title || this.options.name;
-	}
+# Tracker-Chrome-Extension
 
-## Supporting Scrimba
+A simple chrome browser extension to save current tabs and other url's which users can add manually and delete all saved tabs and url.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+## SAVE INPUTS MANUALLY
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+![Screenshot (134)](https://user-images.githubusercontent.com/61648048/120107787-f62bb900-c17f-11eb-95e8-8b594f927086.png)
 
-	It would also mean the world to us if you share the courses.  
+## SAVE CURRENT TAB
 
-Happy Coding!
+![Screenshot (136)](https://user-images.githubusercontent.com/61648048/120107837-368b3700-c180-11eb-8875-ee59142eef19.png)
